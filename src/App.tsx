@@ -27,6 +27,8 @@ const WORDS = [
   'SCHWEDEN',
   'DEUTSCHLAND',
   'REGENWURM',
+  '110',
+  '112',
 ];
 
 function getRandomWordIndex(): number {
