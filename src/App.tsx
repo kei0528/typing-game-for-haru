@@ -8,7 +8,7 @@ const WORDS = [
   'BAACHAN',
   'YURICHAN',
   'ABBORRE',
-  'JÄDDA',
+  'GÄDDA',
   'GÖS',
   'RÖDING',
   'GASHIRA',
