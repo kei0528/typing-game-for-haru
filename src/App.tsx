@@ -17,6 +17,16 @@ const WORDS = [
   'LACHS',
   'KAREI',
   'UNI',
+  'ÖRING',
+  'KALIX',
+  'RISÖGRUND',
+  'DINO',
+  'IKA',
+  'TAKO',
+  'JAPAN',
+  'SCHWEDEN',
+  'DEUTSCHLAND',
+  'REGENWURM',
 ];
 
 function getRandomWordIndex(): number {
